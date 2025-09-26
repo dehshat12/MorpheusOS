@@ -19,4 +19,6 @@ MorpheusOS is a lightweight Debian-based live system featuring KDE Plasma. It fo
 SHA256 checksum is provided for verification:
 
 ```bash
-sha256sum morpheus-os.iso
+sha256sum live.iso (replace with iso name)
+`````
+
